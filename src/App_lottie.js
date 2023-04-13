@@ -1,10 +1,10 @@
 import React from 'react';
-import Spring from './spring'
+import Lottie from './Lottie'
 
 function App() {
   return (
     <div>
-      <Spring />
+      <Lottie />
     </div>
   )
 }
